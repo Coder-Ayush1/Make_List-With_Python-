@@ -11,7 +11,7 @@ while(a>0) :    #by while loop instead of
    n = n + 1
 
 lis.sort() #sort list alphabeticaly ( a ,b ,c)
-print(lis)
+print(lis) #print the sorted list.
 
-input("Press enter to exit....")
+input("Press enter to exit....") #pause the terminal until any key is pressed(input is given)
 
